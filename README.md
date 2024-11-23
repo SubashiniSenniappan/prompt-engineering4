@@ -69,7 +69,7 @@ queries were too ambiguous or open-ended.
 satisfaction score of 8.5/10. The most common feedback indicated appreciation for the 
 chatbot’s quick responses and personalized recommendations.  
 # Future Work:  
-# Future development could include:  
+## Future development could include:  
 • Expanding the chatbot’s capabilities to handle even more complex tasks, such as flight 
 changes or vacation package recommendations.  
 • Incorporating sentiment analysis to allow the chatbot to better gauge customer emotions 
